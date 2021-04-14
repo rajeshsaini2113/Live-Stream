@@ -31,7 +31,7 @@
           <br /><br />
           <p class="subtitle is-6 has-text-light ">
             Developed by
-            <span class="has-text-weight-bold has-text-info">Zibbp</span>
+            <span class="has-text-weight-bold has-text-info">Rajesh Saini</span>
           </p>
           <a
             class="button is-dark is-small"
