@@ -7,7 +7,7 @@
             <p class="title is-4 has-text-light	">Radium</p>
             <p class="subtitle is-6 has-text-light">
               <a
-                href="https://github.com/zibbp/radium"
+                href="https://github.com/rajeshsaini2113/streaming"
                 class="has-text-success"
                 target="_blank"
                 >Github</a
@@ -23,7 +23,7 @@
           <code>Version {{ version }}</code
           ><br />
           <a
-            href="https://github.com/Zibbp/Radium/releases"
+            href="https://github.com/rajeshsaini2113/streaming/releases"
             target="_blank"
             class="has-text-success"
             >Changelog</a
@@ -35,10 +35,10 @@
           </p>
           <a
             class="button is-dark is-small"
-            href="https://github.com/Zibbp"
+            href="https://YouTube.com/c/yostartricks"
             target="_blank"
           >
-            <b-icon icon="github"></b-icon>
+            <b-icon icon="youtube"></b-icon>
           </a>
         </div>
       </div>
